@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "nla_cleanup_rknz"
+name = "NLA Empty Track Cleanup RKNZ"
+version = "1.2.0"
+tagline = "Quickly remove all empty NLA tracks from your scene with one click"
+maintainer = "Rikokenz"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
