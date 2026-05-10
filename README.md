@@ -1,7 +1,7 @@
 <img align="center" width="1922" height="1082" alt="FEATURED" src="https://github.com/user-attachments/assets/69cb9a62-7e92-405e-a676-b756460fcd6b" />
 
 <h1 align="center">
-  NLACleanupRKNZ
+  NLA Cleanup RKNZ
 </h1> 
 
 Simple addon to delete all empty NLA tracks that comes when you append collection from another .blend files by single click on side menu on NLA window.
