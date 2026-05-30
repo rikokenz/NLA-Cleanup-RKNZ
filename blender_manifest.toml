@@ -6,7 +6,7 @@ version = "1.2.0"
 tagline = "Quickly remove all empty NLA tracks"
 maintainer = "Rikokenz <https://github.com/rikokenz>"
 type = "add-on"
-website = "https://github.com/rikokenz/QuickPathRKNZ"
+website = "https://github.com/rikokenz/NLA-Cleanup-RKNZ"
 
 tags = ["Animation"]
 
