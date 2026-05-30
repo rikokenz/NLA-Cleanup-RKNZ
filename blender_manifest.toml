@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 
-id = "nla_cleanup_rknz"
+id = "delete_empty_nla_tracks"
 name = "NLA Empty Track Cleanup RKNZ"
 version = "1.2.0"
 tagline = "Quickly remove all empty NLA tracks"
