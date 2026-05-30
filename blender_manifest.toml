@@ -2,7 +2,7 @@ schema_version = "1.0.0"
 
 id = "delete_empty_nla_tracks"
 name = "NLA Empty Track Cleanup RKNZ"
-version = "1.2.0"
+version = "1.2.1"
 tagline = "Quickly remove all empty NLA tracks"
 maintainer = "Rikokenz <https://github.com/rikokenz>"
 type = "add-on"
